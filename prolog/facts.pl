@@ -1,0 +1,42 @@
+% restaurant(Name, Cuisine, PriceRange, FoodType, DistanceKm, Rating, PureVeg, Desserts).
+restaurant('Green Garden', indian, low, healthy, 2, 4.5, yes, no).
+restaurant('Burger Blast', american, medium, junk, 3, 4.0, no, no).
+restaurant('Pasta Palace', italian, high, healthy, 5, 4.8, no, no).
+restaurant('Taco Town', mexican, low, junk, 4, 3.9, no, no).
+restaurant('Zen Sushi', japanese, high, healthy, 6, 4.7, no, no).
+restaurant('Pizza Planet', italian, medium, junk, 3, 4.2, no, no).
+restaurant('Health Hub', continental, medium, healthy, 2, 4.6, yes, no).
+restaurant('Spice Street', indian, medium, junk, 5, 3.8, no, no).
+restaurant('Sweet Escape', french, medium, junk, 2, 4.3, no, yes).
+restaurant('Cake World', continental, medium, junk, 1, 4.5, yes, yes).
+restaurant('Fruit Fiesta', fusion, low, healthy, 1, 4.7, yes, yes).
+restaurant('Vegan Vibes', vegan, medium, healthy, 2, 4.6, yes, no).
+restaurant('Choco Delite', french, high, junk, 3, 4.9, yes, yes).
+restaurant('Saffron Soul', indian, high, healthy, 6, 4.8, yes, no).
+restaurant('Biryani Bowl', indian, medium, junk, 3, 4.1, no, no).
+restaurant('Noodle Nook', chinese, low, junk, 2, 4.2, no, no).
+restaurant('Tofu Town', chinese, medium, healthy, 4, 4.4, yes, no).
+restaurant('Yogurt Yard', mediterranean, low, healthy, 1, 4.6, yes, yes).
+restaurant('Donut Den', american, medium, junk, 1, 4.4, no, yes).
+restaurant('Waffle Wonders', belgian, medium, junk, 2, 4.7, yes, yes).
+restaurant('Hummus House', mediterranean, medium, healthy, 3, 4.5, yes, no).
+restaurant('Rolls Royce', fusion, low, junk, 2, 4.0, no, no).
+restaurant('Healthy Spoon', continental, low, healthy, 1, 4.5, yes, no).
+restaurant('Bento Bliss', japanese, high, healthy, 5, 4.6, no, no).
+restaurant('Curry Kingdom', indian, low, junk, 4, 3.9, no, no).
+restaurant('Smoothie Shack', fusion, low, healthy, 1, 4.7, yes, yes).
+restaurant('Wrap It Up', mexican, medium, healthy, 3, 4.3, no, no).
+restaurant('Snack Shack', american, low, junk, 2, 3.8, no, no).
+restaurant('Dessert Dock', italian, medium, junk, 2, 4.9, yes, yes).
+restaurant('Chaat Corner', indian, low, junk, 1, 4.0, yes, no).
+restaurant('Tandoori Trail', indian, medium, healthy, 5, 4.2, no, no).
+restaurant('Bean Bistro', continental, medium, healthy, 3, 4.4, yes, no).
+restaurant('Crepe Café', french, medium, junk, 2, 4.5, yes, yes).
+restaurant('Coco Cravings', continental, high, junk, 4, 4.7, no, yes).
+restaurant('Keto Kitchen', fusion, high, healthy, 5, 4.8, yes, no).
+restaurant('The Veggie Bowl', vegan, medium, healthy, 2, 4.6, yes, no).
+restaurant('Ramen Republic', japanese, high, junk, 4, 4.3, no, no).
+restaurant('Cheesecake City', american, high, junk, 2, 4.9, yes, yes).
+restaurant('Lassi Lounge', indian, low, healthy, 1, 4.4, yes, yes).
+restaurant('Food Fiesta', mexican, medium, junk, 3, 4.1, no, no).
+restaurant('Momos & More', tibetan, low, junk, 2, 4.0, no, no).
